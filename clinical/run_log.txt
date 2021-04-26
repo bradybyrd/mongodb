@@ -1,0 +1,69 @@
+04/26/2021 13:14:32|I> New process Process-1
+04/26/2021 13:14:33|I> New process Process-2
+04/26/2021 13:14:34|I> New process Process-3
+04/26/2021 13:16:20|I> New process Process-1
+04/26/2021 13:16:21|I> Process-1 Inserting Bulk, Total:50
+04/26/2021 13:16:21|I> Process-1 Inserting Bulk, Total:100
+04/26/2021 13:16:21|I> Process-1 Inserting Bulk, Total:150
+04/26/2021 13:16:21|I> Process-1 Inserting Bulk, Total:200
+04/26/2021 13:16:21|I> Process-1 Inserting Bulk, Total:250
+04/26/2021 13:16:21|I> New process Process-2
+04/26/2021 13:16:21|I> Process-1 Inserting Bulk, Total:300
+04/26/2021 13:16:21|I> Process-1 Inserting Bulk, Total:350
+04/26/2021 13:16:21|I> Process-1 Inserting Bulk, Total:400
+04/26/2021 13:16:21|I> Process-1 Inserting Bulk, Total:450
+04/26/2021 13:16:22|I> Process-1 Inserting Bulk, Total:500
+04/26/2021 13:16:22|I> Process-1 Inserting Bulk, Total:550
+04/26/2021 13:16:22|I> Process-2 Inserting Bulk, Total:50
+04/26/2021 13:16:22|I> Process-1 Inserting Bulk, Total:600
+04/26/2021 13:16:22|I> Process-1 Inserting Bulk, Total:650
+04/26/2021 13:16:22|I> Process-2 Inserting Bulk, Total:100
+04/26/2021 13:16:22|I> Process-1 Inserting Bulk, Total:700
+04/26/2021 13:16:22|I> Process-2 Inserting Bulk, Total:150
+04/26/2021 13:16:22|I> Process-1 Inserting Bulk, Total:750
+04/26/2021 13:16:22|I> Process-2 Inserting Bulk, Total:200
+04/26/2021 13:16:22|I> Process-1 Inserting Bulk, Total:800
+04/26/2021 13:16:22|I> Process-2 Inserting Bulk, Total:250
+04/26/2021 13:16:22|I> Process-1 Inserting Bulk, Total:850
+04/26/2021 13:16:22|I> New process Process-3
+04/26/2021 13:16:22|I> Process-2 Inserting Bulk, Total:300
+04/26/2021 13:16:22|I> Process-1 Inserting Bulk, Total:900
+04/26/2021 13:16:22|I> Process-2 Inserting Bulk, Total:350
+04/26/2021 13:16:22|I> Process-1 Inserting Bulk, Total:950
+04/26/2021 13:16:22|I> Process-2 Inserting Bulk, Total:400
+04/26/2021 13:16:22|I> Process-1 Inserting Bulk, Total:1000
+04/26/2021 13:16:22|I> Process-2 Inserting Bulk, Total:450
+04/26/2021 13:16:22|I> Process-1 - Bulk Load took 2.233132 seconds
+04/26/2021 13:16:22|I> Process-2 Inserting Bulk, Total:500
+04/26/2021 13:16:23|I> Process-2 Inserting Bulk, Total:550
+04/26/2021 13:16:23|I> Process-2 Inserting Bulk, Total:600
+04/26/2021 13:16:23|I> Process-3 Inserting Bulk, Total:50
+04/26/2021 13:16:23|I> Process-2 Inserting Bulk, Total:650
+04/26/2021 13:16:23|I> Process-3 Inserting Bulk, Total:100
+04/26/2021 13:16:23|I> Process-2 Inserting Bulk, Total:700
+04/26/2021 13:16:23|I> Process-3 Inserting Bulk, Total:150
+04/26/2021 13:16:23|I> Process-2 Inserting Bulk, Total:750
+04/26/2021 13:16:23|I> Process-3 Inserting Bulk, Total:200
+04/26/2021 13:16:23|I> Process-2 Inserting Bulk, Total:800
+04/26/2021 13:16:23|I> Process-3 Inserting Bulk, Total:250
+04/26/2021 13:16:23|I> Process-2 Inserting Bulk, Total:850
+04/26/2021 13:16:23|I> Process-3 Inserting Bulk, Total:300
+04/26/2021 13:16:23|I> Process-2 Inserting Bulk, Total:900
+04/26/2021 13:16:23|I> Process-3 Inserting Bulk, Total:350
+04/26/2021 13:16:23|I> Process-2 Inserting Bulk, Total:950
+04/26/2021 13:16:23|I> Process-3 Inserting Bulk, Total:400
+04/26/2021 13:16:23|I> Process-2 Inserting Bulk, Total:1000
+04/26/2021 13:16:23|I> Process-3 Inserting Bulk, Total:450
+04/26/2021 13:16:23|I> Process-2 - Bulk Load took 2.161067 seconds
+04/26/2021 13:16:23|I> Process-3 Inserting Bulk, Total:500
+04/26/2021 13:16:23|I> Process-3 Inserting Bulk, Total:550
+04/26/2021 13:16:24|I> Process-3 Inserting Bulk, Total:600
+04/26/2021 13:16:24|I> Process-3 Inserting Bulk, Total:650
+04/26/2021 13:16:24|I> Process-3 Inserting Bulk, Total:700
+04/26/2021 13:16:24|I> Process-3 Inserting Bulk, Total:750
+04/26/2021 13:16:24|I> Process-3 Inserting Bulk, Total:800
+04/26/2021 13:16:24|I> Process-3 Inserting Bulk, Total:850
+04/26/2021 13:16:24|I> Process-3 Inserting Bulk, Total:900
+04/26/2021 13:16:24|I> Process-3 Inserting Bulk, Total:950
+04/26/2021 13:16:24|I> Process-3 Inserting Bulk, Total:1000
+04/26/2021 13:16:24|I> Process-3 - Bulk Load took 2.097178 seconds

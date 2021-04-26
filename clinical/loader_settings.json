@@ -1,0 +1,13 @@
+{
+    "uri" : "mongodb+srv://m10basicagain-vmwqj.mongodb.net",
+    "localuri" : "mongodb://Bradfords-MacBook-Pro-3.local:27017,Bradfords-MacBook-Pro-3.local:27018,Bradfords-MacBook-Pro-3.local:27019/test?authSource=admin&replicaSet=bblocal",
+    "database" : "clinical",
+    "collection" : "emr",
+    "username" : "main_admin",
+    "password" : "xxxxXxxxx",
+    "process_count" : 3,
+    "dilution_factor" : 100,
+    "batch_size" : 50,
+    "batches" : 20,
+    "base_counter" : 1100200
+}
